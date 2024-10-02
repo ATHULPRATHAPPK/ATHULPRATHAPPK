@@ -36,7 +36,7 @@ A service booking platform for users to hire technicians for home services, with
   - Admin dashboard for managing bookings and users
 
 ## 📈 GitHub Stats
-![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=athulprathap&show_icons=true&theme=radical)
+![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATHULPRATHAPPK&show_icons=true&theme=radical)
 
 
 ## 📫 Let's Connect
